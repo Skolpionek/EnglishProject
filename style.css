@@ -3,6 +3,12 @@
    margin: auto;
    padding-bottom: 2vw;
  }
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
  body{
   background-color: #313131;
   scroll-behavior: smooth;
